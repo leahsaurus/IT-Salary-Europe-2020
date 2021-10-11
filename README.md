@@ -1,5 +1,6 @@
 # IT-Salary-Europe-2020
-The IT Salary Survey Europe has been taken from Kaggle and EDA has been performed on this dataset to get valuable insight from the data about the salary features in Europe for the year 2020 and find out insights on the relation amongst the features.
+The IT Salary Survey Europe has been taken from Kaggle and EDA has been performed on this dataset to get valuable insight from the data about the salary features in Europe for the year 2020 and find out insights on the relation amongst the features. This led to useful insights on salary, relation between gender and roles, relation between cities and salary and other dependencies between other features that help us get an overview of the corporate worker salaries and the various factors that influence it.
+
 Exploratory Data Analysis has been performed on the dataset. Too many cleanings had to be performed for the dataset as it contained many missing, invalid datatypes and NULL values. After removing all the NaN values and correcting the data types, the correlation matrix of the dataset was calculated and strong correlation has been found between the features:
 1. Age and Total Years of Experience
 
